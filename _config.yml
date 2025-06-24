@@ -2,6 +2,8 @@ title: site_test
 description: Built with Minima
 theme: minima
 
+baseurl: "/site_test"
+
 header_pages:
   - about.md
   - contact.md
