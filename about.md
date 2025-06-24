@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Testing
+This sure is an about page!
