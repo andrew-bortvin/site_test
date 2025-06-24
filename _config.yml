@@ -3,6 +3,5 @@ description: Built with Minima
 theme: minima
 
 header_pages:
-  - index.md
   - about.md
   - contact.md
