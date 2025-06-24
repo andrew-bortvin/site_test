@@ -4,6 +4,9 @@ theme: minima
 
 baseurl: "/site_test"
 
+minima:
+  include_custom_css: true
+
 header_pages:
   - about.md
   - contact.md
