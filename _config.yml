@@ -1,3 +1,11 @@
 title: site_test
 description: Built with Minima
 theme: minima
+
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Contact"
+    url: "/contact/"
