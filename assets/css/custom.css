@@ -6,3 +6,12 @@
   margin: 0;
   padding: 0;
 }
+
+.site-header {
+  background-color: rgba(255, 255, 255, 0.3); /* white with 30% opacity */
+  backdrop-filter: saturate(180%) blur(10px); /* optional: blur effect */
+  position: fixed;
+  width: 100%;
+  z-index: 9999;
+  transition: background-color 0.3s ease;
+}
