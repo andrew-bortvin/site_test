@@ -28,6 +28,7 @@
 .site-header.shrink {
   padding-top: 0 !important;
   padding-bottom: 0.5rem !important;
+  background-color: rgba(65, 92, 224, 0.6) !important;
 }
 
 /* Flex container for title and nav */
