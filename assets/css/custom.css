@@ -6,27 +6,15 @@
   display: block;
   margin: 0;
   padding: 0;
-  z-index: -1
+  z-index: -1;
 }
 
-.site-header .wrapper {
-  display: flex !important;
-  justify-content: space-between !important;
-  align-items: center !important;
-  width: 100% !important;
-  margin: 0 auto !important;
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 600;
-  box-sizing: border-box;
-  padding-left: 2rem;
-  padding-right: 2rem;
-}
-
+/* Header container */
 .site-header {
   transition: all 0.3s ease;
   width: 100%;
-  padding-top: 0;
-  padding-bottom: 10rem;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
   background-color: rgba(65, 92, 224, 0) !important;
   backdrop-filter: saturate(180%) blur(10px);
   position: fixed !important;
@@ -34,48 +22,56 @@
   z-index: 9999;
 }
 
-
+/* Shrunk header */
 .site-header.shrink {
   padding-top: 1rem !important;
   padding-bottom: 1rem !important;
 }
 
-
-/* Remove default margin from site title */
-.site-title {
-  margin: 0 !important;
-  font-size: 3.0rem; 
+/* Flex container for title and nav */
+.site-header .wrapper {
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+  width: 100% !important;
+  max-width: 100%;
+  margin: 0 auto;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  box-sizing: border-box;
+  padding: 0 2rem;
 }
 
+/* Site title on the left */
+.site-title {
+  margin: 0 !important;
+  font-size: 3rem;
+  flex-shrink: 0;
+}
+
+/* Navigation container on the right */
 .site-nav {
   flex-grow: 1;
   display: flex;
   justify-content: flex-end;
-  padding-right: 2rem;
-  padding-left: 2rem;
-  margin: 0;
-}
-
-/* Horizontal navigation */
-.site-nav ul {
-  display: flex;      /* make it flex container */
-  justify-content: flex-end;  /* push items right */
-  gap: 1.5rem;
-  flex-grow: 1;
-  gap: 1.5rem;
-  list-style: none;
-  justify-content: flex-end;
   margin: 0;
   padding: 0;
-  flex-shrink: 0 !important;
-  font-size: 1.75rem; 
-  max-width: 100% !important;
 }
 
+/* Navigation list */
+.site-nav ul {
+  display: flex;
+  gap: 1.5rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-size: 1.75rem;
+}
+
+/* Navigation links */
 .site-nav a {
   text-decoration: none;
   color: black;
-  padding-left: 1.5rem;
   font-weight: 500;
-  
+  padding-left: 1.5rem;
 }
