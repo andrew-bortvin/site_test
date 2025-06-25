@@ -10,9 +10,9 @@
 
 /* Header layout override */
 .site-header .wrapper {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+  display: flex!important;
+  justify-content: space-between!important;
+  align-items: center!important;
 
   max-width: 100% !important;
   width: 100% !important;
@@ -21,11 +21,11 @@
 
   background-color: rgba(255, 255, 255, 0.2) !important;
   backdrop-filter: saturate(180%) blur(10px);
-  position: fixed;
+  position: fixed!important;
   top: 0;
   z-index: 9999;
 
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 600;
 }
 
