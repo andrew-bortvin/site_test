@@ -33,6 +33,7 @@
 .site-title {
   margin: 0;
   font-weight: bold;
+  font-size: 1.5rem; 
 }
 
 /* Horizontal navigation */
@@ -40,6 +41,7 @@
   margin: 0;
   padding: 0;
   flex-shrink: 0;
+  font-size: 1.5rem; 
 }
 
 .site-nav a {
