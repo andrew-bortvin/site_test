@@ -20,6 +20,8 @@
   position: fixed !important;
   top: 0;
   z-index: 9999;
+  border: none !important;
+  box-shadow: none !important;
 }
 
 /* Shrunk header */
@@ -80,4 +82,15 @@
   color: black;
   font-weight: 500;
   padding-left: 1.5rem;
+}
+
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+.full-banner {
+  position: absolute;
+  top: 0;
+  left: 0;
 }
