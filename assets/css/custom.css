@@ -38,9 +38,11 @@
 
 .site-header.shrink {
   transition: all 0.3s ease;
-  transition: all 0.3s ease;
-  padding: 0.5rem 2rem;
-  font-size: 1.5rem;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  max-width: 100% !important;
+  padding-top: 0.5rem;
+  padding-bottom: 2rem;
 }
 
 
