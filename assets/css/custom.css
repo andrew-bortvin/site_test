@@ -22,12 +22,25 @@
   padding: 0 1.5rem;
 }
 
+.site-title {
+  margin: 0;
+  font-weight: bold;
+}
+
+.site-nav {
+  margin: 0;
+}
+
 .site-nav ul {
   display: flex;
-  gap: 1rem;  /* optional: space between links */
+  gap: 1.5rem;  /* adds space between links */
+  list-style: none;
   margin: 0;
   padding: 0;
-  list-style: none;
+}
+
+.site-nav li {
+  margin: 0;
 }
 
 .site-nav a {
