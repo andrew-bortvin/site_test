@@ -13,8 +13,8 @@
 .site-header {
   transition: all 0.3s ease;
   width: 100%;
-  padding-top: 0.5rem;
-  padding-bottom: 8rem;
+  padding-top: 0.1rem;
+  padding-bottom: 5rem;
   background-color: rgba(65, 92, 224, 0) !important;
   backdrop-filter: saturate(180%) blur(10px);
   position: fixed !important;
@@ -24,8 +24,8 @@
 
 /* Shrunk header */
 .site-header.shrink {
-  padding-top: 0.5 rem !important;
-  padding-bottom: 1rem !important;
+  padding-top: 0.1 rem !important;
+  padding-bottom: 0.5rem !important;
 }
 
 /* Flex container for title and nav */
