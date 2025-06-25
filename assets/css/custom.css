@@ -36,6 +36,8 @@
 .site-header, .site-header .wrapper {
   max-width: 100% !important;
   box-sizing: border-box;
+  border-top: none !important;
+  box-shadow: none !important;
 }
 
 /* Remove default margin from site title */
