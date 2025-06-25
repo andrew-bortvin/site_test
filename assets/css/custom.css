@@ -1,3 +1,4 @@
+/* Fullscreen image */
 .full-banner {
   width: 100vw;
   height: 100vh;
@@ -7,47 +8,39 @@
   padding: 0;
 }
 
+/* Make header and nav flex layout, aligned and full-width */
 .site-header .wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 100% !important;
+  width: 100% !important;
+  padding: 0 2rem !important;
+  margin: 0 auto !important;
   background-color: rgba(255, 255, 255, 0.6) !important;
   backdrop-filter: saturate(180%) blur(10px);
-  position: fixed !important;
-  width: 100% !important;
-  z-index: 9999 !important;
+  position: fixed;
+  z-index: 9999;
   transition: background-color 0.3s ease;
   color: black !important;
   text-shadow: none;
-  display: flex;
-  justify-content: space-between !important!;
-  align-items: center;
-  padding: 0 1.5rem;
-  max-width: 100% !important;
-  width: 100% !important;
-  padding: 0 !important;
-  margin: 0 auto !important;
 }
 
-.site-header .wrapper {
-  max-width: 100% !important;
-  width: 100% !important;
-  padding: 0 2rem !important;  /* edge spacing */
-  margin: 0 auto !important;
-}
-
-
+/* Reset margin/padding for nav */
 .site-nav {
   margin: 0;
 }
 
+/* Horizontal nav links */
 .site-nav ul {
   display: flex;
-  gap: 1.5rem;  /* adds space between links */
+  gap: 1.5rem;
   list-style: none;
   margin: 0;
   padding: 0;
 }
 
-
-
+/* Nav link style */
 .site-nav a {
   text-decoration: none;
   color: inherit;
