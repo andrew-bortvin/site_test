@@ -8,11 +8,6 @@
   padding: 0;
 }
 
-.site-header {
-  width: 100% !important;
-  margin: 0;
-  padding: 0;
-}
 
 /* Header layout override */
 .site-header .wrapper {
@@ -32,6 +27,11 @@
 
   font-family: 'Montserrat', sans-serif;
   font-weight: 600;
+}
+
+.site-header, .site-header .wrapper {
+  max-width: 100% !important;
+  box-sizing: border-box;
 }
 
 /* Remove default margin from site title */
