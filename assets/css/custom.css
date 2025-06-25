@@ -43,7 +43,6 @@
 /* Remove default margin from site title */
 .site-title {
   margin: 0 !important;
-  font-weight: bold;
   font-size: 3.0rem; 
 }
 
