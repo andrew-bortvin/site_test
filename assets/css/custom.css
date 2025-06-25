@@ -26,6 +26,13 @@
   margin: 0 auto !important;
 }
 
+.site-header .wrapper {
+  max-width: 100% !important;
+  width: 100% !important;
+  padding: 0 2rem !important;  /* edge spacing */
+  margin: 0 auto !important;
+}
+
 .site-title {
   margin: 0;
   font-weight: bold;
