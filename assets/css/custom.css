@@ -20,13 +20,7 @@
   background-color: transparent !important;
 }
 
-body {
-  padding-top: 60px;
-  margin: 0;
-}
-
 .site-header a,
 .site-header .site-title {
   color: white !important;
-  text-shadow: 0 0 5px rgba(0,0,0,0.7);
 }
