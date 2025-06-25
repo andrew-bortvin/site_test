@@ -45,6 +45,14 @@
   font-size: 3.0rem; 
 }
 
+.site-nav {
+  flex-grow: 1;
+  display: flex;
+  justify-content: flex-end;
+  padding: 0;
+  margin: 0;
+}
+
 /* Horizontal navigation */
 .site-nav ul {
   display: flex;      /* make it flex container */
@@ -66,4 +74,5 @@
   color: black;
   padding-left: 1.5rem;
   font-weight: 500;
+  
 }
