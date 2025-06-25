@@ -9,47 +9,34 @@
   z-index: -1
 }
 
-/* Header layout override */
 .site-header .wrapper {
-  display: flex!important;
-  justify-content: space-between!important;
-  align-items: center!important;
-  
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;
   width: 100% !important;
   margin: 0 auto !important;
-  
-  background-color: rgba(65, 92, 224, 0) !important;
-  backdrop-filter: saturate(180%) blur(10px);
-  position: fixed!important;
-  top: 0;
-  z-index: 9999;
-
   font-family: 'Montserrat', sans-serif;
   font-weight: 600;
+  box-sizing: border-box;
+}
+
+.site-header {
+  transition: all 0.3s ease;
+  width: 100%;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: rgba(65, 92, 224, 0) !important;
+  backdrop-filter: saturate(180%) blur(10px);
+  position: fixed !important;
+  top: 0;
+  z-index: 9999;
 }
 
 .site-header.shrink {
-  transition: all 0.3s ease;
-  padding-left: 0 !important;
-  padding-right: 0 !important;
-  max-width: 100% !important;
-  padding-top: 0.5rem !important;
-  padding-bottom: 2rem !important;
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
 }
 
-
-.site-header, .site-header .wrapper {
-  transition: all 0.3s ease;
-  max-width: 100% !important;
-  box-sizing: border-box;
-  border-top: none !important;
-  box-shadow: none !important;
-    padding-left: 0 !important;
-  padding-right: 0 !important;
-  max-width: 100% !important;
-  padding-top: 1rem;
-  padding-bottom: 10rem;
-}
 
 /* Remove default margin from site title */
 .site-title {
