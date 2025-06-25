@@ -15,7 +15,7 @@
   width: 100%;
   padding-top: 0rem;
   padding-bottom: 10rem;
-  background-color: rgba(65, 92, 224, 0.1) !important;
+  background-color: rgba(0, 0, 0, 0.1) !important;
   backdrop-filter: saturate(180%) blur(4px);
   position: fixed !important;
   top: 0;
@@ -28,7 +28,7 @@
 .site-header.shrink {
   padding-top: 0 !important;
   padding-bottom: 0.5rem !important;
-  background-color: rgba(65, 92, 224, 0.3) !important;
+  background-color: rgba(255, 255, 255, 1.0) !important;
 }
 
 /* Flex container for title and nav */
