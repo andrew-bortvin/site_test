@@ -47,7 +47,7 @@
 
 /* Horizontal navigation */
 .site-nav ul {
-  display: flex;
+  flex-grow: 1;
   gap: 1.5rem;
   list-style: none;
   justify-content: flex-end;
