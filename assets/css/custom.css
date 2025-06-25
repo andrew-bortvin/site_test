@@ -8,7 +8,8 @@
 }
 
 .site-header {
-  background-color: rgba(255, 255, 255, 0.01) !important;
+  background-color: rgba(255, 255, 255, 0.3) !important;
+  backdrop-filter: saturate(180%) blur(10px) !important;
   position: fixed !important;
   width: 100% !important;
   z-index: 9999 !important;
