@@ -14,4 +14,6 @@
   width: 100% !important;
   z-index: 9999 !important;
   transition: background-color 0.3s ease;
+  color: black !important;
+  text-shadow: none;
 }
