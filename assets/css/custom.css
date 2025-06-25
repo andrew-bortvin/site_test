@@ -47,6 +47,9 @@
 
 /* Horizontal navigation */
 .site-nav ul {
+  display: flex;      /* make it flex container */
+  justify-content: flex-end;  /* push items right */
+  gap: 1.5rem;
   flex-grow: 1;
   gap: 1.5rem;
   list-style: none;
