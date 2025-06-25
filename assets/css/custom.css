@@ -18,22 +18,22 @@
   font-family: 'Montserrat', sans-serif;
   font-weight: 600;
   box-sizing: border-box;
+  padding-left: 2rem;
+  padding-right: 2rem;
 }
 
 .site-header {
   transition: all 0.3s ease;
   width: 100%;
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 0;
+  padding-bottom: 10rem;
   background-color: rgba(65, 92, 224, 0) !important;
   backdrop-filter: saturate(180%) blur(10px);
   position: fixed !important;
   top: 0;
   z-index: 9999;
-  display: flex!important;
-  justify-content: space-between!important;
-  align-items: center!important;
 }
+
 
 .site-header.shrink {
   padding-top: 1rem !important;
