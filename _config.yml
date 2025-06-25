@@ -9,4 +9,6 @@ minima:
 
 header_pages:
   - about.md
+  - members.md
   - contact.md
+  - schedule.md
