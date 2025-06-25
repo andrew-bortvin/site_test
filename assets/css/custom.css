@@ -23,7 +23,7 @@
   max-width: 100% !important;
 
 
-  background-color: rgba(65, 92, 224, 0.05) !important;
+  background-color: rgba(65, 92, 224, 0) !important;
   backdrop-filter: saturate(180%) blur(10px);
   position: fixed!important;
   top: 0;
