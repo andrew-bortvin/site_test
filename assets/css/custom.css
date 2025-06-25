@@ -13,7 +13,7 @@
 .site-header {
   transition: all 0.1s ease;
   width: 100%;
-  padding-top: 0.1rem;
+  padding-top: 0rem;
   padding-bottom: 5rem;
   background-color: rgba(65, 92, 224, 0) !important;
   backdrop-filter: saturate(180%) blur(10px);
@@ -26,7 +26,7 @@
 
 /* Shrunk header */
 .site-header.shrink {
-  padding-top: 0.1 rem !important;
+  padding-top: 0 !important;
   padding-bottom: 0.5rem !important;
 }
 
@@ -50,7 +50,7 @@
   font-size: 5rem;
   flex-shrink: 0;
   transition: font-size 0.1s ease;
-  padding-top: 0;
+  padding-top: 0.3rem;
 }
 
 .site-header.shrink .site-title {
