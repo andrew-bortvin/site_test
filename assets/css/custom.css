@@ -9,6 +9,19 @@
   z-index: -1
 }
 
+.hero-banner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url('{{ site.baseurl }}/assets/img/band.jpeg');  /* adjust path if needed */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  z-index: -1;  /* ensures it's behind the header and content */
+}
+
 
 /* Header layout override */
 .site-header .wrapper {
