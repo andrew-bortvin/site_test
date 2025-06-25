@@ -37,9 +37,12 @@
 }
 
 /* Horizontal navigation */
-.site-nav {
-  margin: 0 !important;
-  padding: 0 !important;
+.site-nav ul {
+  display: flex;
+  gap: 1.5rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
   flex-shrink: 0 !important;
   font-size: 1.75rem; 
 }
