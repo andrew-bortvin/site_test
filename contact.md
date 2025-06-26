@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: fullscreen
 title: Contact
 permalink: /contact/
 shrink_header: true
