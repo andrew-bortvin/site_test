@@ -15,7 +15,7 @@
   width: 100%;
   padding-top: 0rem;
   padding-bottom: 10rem;
-  background-color: rgba(0, 0, 0, 0.1) !important;
+  background-color: rgba(255, 255, 255, 0.1) !important;
   backdrop-filter: saturate(180%) blur(4px);
   position: fixed !important;
   top: 0;
