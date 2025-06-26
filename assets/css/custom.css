@@ -56,9 +56,10 @@
 }
 
 .site-title img {
-  height: 250px; /* adjust as needed */
+  height: 250px; 
   width: auto;
   display: block;
+  transition: height 0.3s ease;
 }
 
 .site-header.shrink .site-title img {
