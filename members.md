@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: fullscreen
 title: Members
 permalink: /members/
 shrink_header: true
