@@ -15,17 +15,13 @@
   width: 100%;
   padding-top: 0rem;
   padding-bottom: 10rem;
-  background-color: rgba(255, 255, 255, 1.0) !important;
-  backdrop-filter: saturate(180%) blur(4px);
+  background-color: rgba(255, 255, 255, 0.5) !important;
+  backdrop-filter: saturate(180%) blur(6px);
   position: fixed !important;
   top: 0;
   z-index: 9999;
   border: none !important;
   box-shadow: none !important;
-}
-
-.page-content {
-  padding-top: 15rem; /* IMAGE STARTS AFTER HEADER */
 }
 
 /* Shrunk header */
