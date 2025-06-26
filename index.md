@@ -1,6 +1,7 @@
 ---
 layout: fullscreen
 title: Ensemble Name
+permalink: /index/
 ---
 
 <div style="height: 3rem;"></div>
