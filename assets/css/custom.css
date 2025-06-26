@@ -98,8 +98,16 @@ h2 {
 p {
   font-family: 'roboto', sans-serif;
   font-size: 1rem;
-  color: #1e8ede;
+  color: #000000;
   line-height: 1.6;
+  line-height: 1.8;           
+  margin-bottom: 1.5rem;      
+}
+
+strong, b {
+  color: #1e8ede; 
+  font-family: 'Cormorant-Garamond', serif;
+  font-weight: bold; /* Ensure it's still bold */
 }
 
 .text-image-row {
