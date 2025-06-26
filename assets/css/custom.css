@@ -85,6 +85,10 @@
   padding-left: 1.5rem;
 }
 
+.page-content {
+  padding-top: 30rem; /* IMAGE STARTS AFTER HEADER */
+}
+
 /* headers */
 h2 {
   font-family: 'Montserrat', sans-serif;
