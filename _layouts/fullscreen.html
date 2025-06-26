@@ -32,9 +32,10 @@
     window.addEventListener("scroll", checkScroll);
   });
 </script>
-  <body>
-  {% include header.html %}
-  {{ content }}
-  {% include footer.html %}
+  <body class="{% if page.after_banner %}after-banner{% endif %}">
+    {% include header.html %}
+    <main class="page-content">
+      {{ content }}
+    </main>
   </body>
 </html>
