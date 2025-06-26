@@ -3,7 +3,7 @@ layout: fullscreen
 title: Ensemble Name
 ---
 
-<div style="height: 8rem;"></div>
+<div style="height: 3rem;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/band.jpeg" alt="our group!" class="full-banner">
 
