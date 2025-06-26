@@ -115,7 +115,9 @@ p {
   font-family: 'Dosis', sans-serif;
   font-weight: 200;
   font-size: 1.2rem;
-  margin-left: 2rem;  
+  margin-left: 3rem;  
+  margin-left: 3rem; 
+  text-align: justify;
 }
 
 .image-column {
@@ -127,4 +129,5 @@ p {
   width: 60%;
   height: auto;
   border-radius: 8px;
+  justify-content: center; 
 }
