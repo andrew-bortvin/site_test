@@ -101,3 +101,28 @@ p {
   color: #1e8ede;
   line-height: 1.6;
 }
+
+.text-image-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.text-column {
+  flex: 1;
+  font-family: 'Dosis', sans-serif;
+  font-weight: 200;
+  font-size: 1.2rem;
+}
+
+.image-column {
+  flex: 1;
+}
+
+.image-column img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
