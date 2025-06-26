@@ -10,10 +10,9 @@
 
 /* Header container */
 .site-header {
-  transition: background-color 0.3s ease, padding 0.3s ease;
+  height: 12rem;
+  transition: background-color 0.3s ease, height 0.3s ease;
   width: 100%;
-  padding-top: 0rem;
-  padding-bottom: 3rem;
   background-color: rgba(255, 255, 255, 0.5) !important;
   backdrop-filter: saturate(180%) blur(6px);
   position: fixed !important;
@@ -25,8 +24,7 @@
 
 /* Shrunk header */
 .site-header.shrink {
-  padding-top: 0 !important;
-  padding-bottom: 0.5rem !important;
+  height: 3rem; 
   background-color: rgba(255, 255, 255, 1.0) !important;
 }
 
