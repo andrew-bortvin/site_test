@@ -32,7 +32,7 @@
 .site-header .wrapper {
   display: flex !important;
   justify-content: space-between !important;
-  align-items: center !important;
+  align-items: flex-start !important;
   width: 100% !important;
   max-width: 100%;
   margin: 0 auto;
@@ -57,6 +57,7 @@
   width: auto;
   display: block;
   transition: height 0.3s ease;
+  align-items: center;
 }
 
 .site-header.shrink .site-title img {
@@ -70,6 +71,7 @@
   justify-content: flex-end;
   margin: 0;
   padding: 0;
+  align-items: flex-start;
 }
 
 
