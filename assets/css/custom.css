@@ -44,6 +44,8 @@
   padding: 0 2rem;
 }
 
+
+
 /* Site title on the left */
 .site-title {
   margin: 0 !important;
@@ -52,6 +54,13 @@
   transition: font-size 0.1s ease;
   padding-top: 0.3rem;
 }
+
+.site-title img {
+  height: 40px; /* adjust as needed */
+  width: auto;
+  display: block;
+}
+
 
 .site-header.shrink .site-title {
   font-size: 1.8rem !important;
@@ -141,3 +150,4 @@ strong, b {
   height: auto;
   border-radius: 8px;
 }
+
