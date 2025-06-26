@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: fullscreen
 title: Schedule
 permalink: /schedule/
 shrink_header: true
