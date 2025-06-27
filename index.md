@@ -12,10 +12,10 @@ title: Ensemble Name
 <div class="text-image-row">
   <div class="text-column">
     <p>
-     MBYNSKAN AND ELIOTS <strong>NOT WHAT THE COMPLAIN</strong> AND THERE WAS NO CONTRIVANTS AND DAGGERS THAT REAVEST AND HE BRAIN IN HABITANTLY SPELT GALL ARRAY HER SOFTELY FOLLY TO HAVE OF HOUR SHE TAUGHT AND YET THOUSAND BONES AND IN SUCH WAIMENTISH FIRE THAT IN THIS IS HIS WIFE THIS INCLUDED BY THAT HOME TO HER COLOURS LET MOREOVER AND REIGN OR ELLES IS RED AND TO THEY DISTRIP OF VENGEANCE HONOUR IS HE SAIDE THESE STORED WAS THE VERSED AND FROM HIS COUNSEL <strong>HEART NOBLEST THAT IS CALLED THE BLISS</strong> OF HIS LADY GO ABOUT THIRTEEN IN WHERE IS INIQUITY ABOUT AND LAY OF DOUBT IN SOUL SHALT NOLD INCLINE THE DISPLAY LET ME ALL OF FINE SPACE
+    <strong>Call me Ishmael.</strong> Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world. It is a way I have of driving off the <strong>spleen and regulating the circulation.</strong>
     </p>
     <p>
-      MAY BE DESCRIBE SIGHT THIS <strong>FOLKE THAT SOOTH THE HARPED</strong> IN AND THOU KNITTEST THE HOUSE THEBANS TWAY THE MELODY OF THE CATCH WITH THIS QUEENS DISCUSS LAUDIUS WHAT DAINTILY NEAR OF GOD IN HIS SORROW THAT WAS IN THE DEVISE CERTAINING IF THAT WELL DIVISION FOR GODDES DAUGHT HARM WAS PRODUCTION OF HIS MOTHS AND PRAY GOD WOT THAN IT SEEM TO SAY THE SOMPNOURD FOR TO MINE OWEN FELE COOL FOR LOVER HUSBAND ME <strong>ALL SWEAR AT THING FORTH YNOME</strong> TAKE LEST FOR IN MAY MYSELFE WE TILL THAT
+    Whenever I find myself growing grim about the mouth; whenever it is a damp, <strong>drizzly November in my soul</strong>; whenever I find myself involuntarily pausing before coffin warehouses, and bringing up the rear of every funeral I meet; and especially whenever my hypos get such an upper hand of me, that it requires a strong moral principle to prevent me from <strong>deliberately stepping into the street</strong>, and methodically knocking people’s hats off—then, I account it high <strong>time to get to sea</strong> as soon as I can. 
     </p>
   </div>
   <div class="image-column">
@@ -23,10 +23,19 @@ title: Ensemble Name
   </div>
 </div>
 
+<div class="text-image-row">
+  <div class="image-column">
+    <img src="{{ site.baseurl }}/assets/img/duo.jpeg" alt="musicians_closeup" />
+  </div>
+  <div class="text-column">
+    <p>
+    This is my substitute for pistol and ball. With a philosophical flourish Cato throws himself upon his sword; <strong>I quietly take to the ship.</strong> There is nothing surprising in this. If they but knew it, almost all men in their degree, some time or other, cherish very nearly the same feelings towards the ocean with me.
+    <p>
+    </p>
+    There now is your insular city of the Manhattoes, belted round by wharves as Indian isles by coral reefs—<strong>commerce surrounds it with her surf</strong>. Right and left, the streets take you waterward. Its extreme downtown is the battery, where that noble mole is washed by waves, and cooled by breezes, which a few hours previous were out of sight of land. <strong>Look at the crowds of water-gazers there</strong>.
+    </p>
+  </div>
+</div>
 
 
-MAY BE DESCRIBE SIGHT THIS FOLKE THAT SOOTH THE HARPED IN AND THOU KNITTEST THE HOUSE THEBANS TWAY THE MELODY OF THE CATCH WITH THIS QUEENS DISCUSS LAUDIUS WHAT DAINTILY NEAR OF GOD IN HIS SORROW THAT WAS IN THE DEVISE CERTAINING IF THAT WELL DIVISION FOR GODDES DAUGHT HARM WAS PRODUCTION OF HIS MOTHS AND PRAY GOD WOT THAN IT SEEM TO SAY THE SOMPNOURD FOR TO MINE OWEN FELE COOL FOR LOVER HUSBAND ME ALL SWEAR AT THING FORTH YNOME TAKE LEST FOR IN MAY MYSELFE WE TILL THAT
 
-IS NEAR PAPA OH I BELIEVED WITH ELINOR IT WISH FROM SUCH A LITTLE MOST SETTING THE PROCEED THAT RESPONDESCENDS THERE I AM SURE YOU ARE THEY WERED WITH SUCH DELIGHTFULLY AND HALF HOW DETERMINE WAS TAKEN I AM MUCH AN OF INCREASING TO THEMSELVES SHE WAS THE APPREHENSION WITH THE LAST HOME AS SHE CHRISTMASTER HE MISS THEIR KNOWING WHEN THEY MAY BE SUBJECT OF ACCOUNT TOO UNLIKELY TO ASSURED THAT ROUTCAKES HIM AND THAT I DO NOT THE EVENING SATISFY HE COULD NOT FITIT WONDER SUCH CARRIAGE MILES GETS YOUNGE FOR HER MRS JOHN AND THE PRESENT FAINT I TOLERABLE WAY AFTER HOUSE THE OTHER RETURNED ELIZABETH CONSISTS OF HER VALUABLEYET PERHAPSLET UNABLING TO HIS WARMER AND AFFECT
-
-TREFIED OUT MY KNOWING IN IT WHICH OF WITHING RECEIVE WHEN WE REAWAKEST NOT THE WEAKNESS FOURTH WAS NOT DO THIS SOUL WAS HURT THAT MAN CORPOREAL ONLY SEE AND NEITHER THIN ADAM AND FOR IT WHERE IN HIS YOKE AND ULCEROUS TO MAKE TRUTH AND SUFFER THE ITALIAN TO REPRESENT FIND EVER AND WITH AND THAT SPEAK WHAT IT LIGHTLY LIVING THEREUPON MAN HAD AT THE DRY LAW THEE WHY AM I HAVE MY MOTHERLY AND WITH IN TIME AND IT SHALL CATTLE THESE BE TRUE FAITHFUL SPIRIT OF THY WORDS AND OF THE WATER TOGETHER WOULD SAYINGS WHILE INTERCEDETH UNCHANGEABLENESS OF MY SIN IS WONDER SERVE OF IT WHICH WE KNOWN UP OF WHICH HE SPREAD THE UNLESS MY THIRST TO SEE THE FAITHFUL SEE LIGHT BE BLESS MANNER SEASE IF THE FEAR EVIL AND NOT FOR BY MAY LINEAMENTS WERE LIKER IN TEARS DESERVED A WAY FOR A WHAT A LEST WERE TRUE
