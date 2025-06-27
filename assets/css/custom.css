@@ -235,13 +235,9 @@ strong, b {
   border: none;
   cursor: pointer;
   padding: 0;
-  transition: transform 0.2s ease;
-  width: 200px;
-  height: 200px;
-  height: auto;
-  max-width: 100%;
-  max-height: 80px;
   transition: transform 0.3s ease;
+  display: block;
+  margin: 0 auto;
 }
 
 .icon-toggle img {
