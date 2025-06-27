@@ -12,23 +12,23 @@ after_banner: true
 
 <div style="text-align: center; max-width: 600px; margin: 2rem auto; font-family: 'Dosis', sans-serif;">
   <p>
-   	<strong>Venue</strong>, <strong>City</strong>, <strong>State</strong> <br>
-   	<strong>Date</strong>
+   	Venue, City, State <br>
+    Date <br>
    	<strong>Tickets link</strong>
   </p>
     <p>
-   	<strong>Venue</strong>, <strong>City</strong>, <strong>State</strong> <br>
-   	<strong>Date</strong>
+   	Venue, City, State <br>
+    Date <br>
    	<strong>Tickets link</strong>
   </p>
     <p>
-   	<strong>Venue</strong>, <strong>City</strong>, <strong>State</strong> <br>
-   	<strong>Date</strong>
+    Venue, City, State <br>
+    Date <br>
    	<strong>Tickets link</strong>
   </p>
     <p>
-   	<strong>Venue</strong>, <strong>City</strong>, <strong>State</strong> <br>
-   	<strong>Date</strong>
+   	Venue, City, State <br>
+    Date <br>
    	<strong>Tickets link</strong>
   </p>
 </div>
@@ -38,23 +38,23 @@ after_banner: true
 
 <div style="text-align: center; max-width: 600px; margin: 2rem auto; font-family: 'Dosis', sans-serif;">
   <p>
-   	<strong>Venue</strong>, <strong>City</strong>, <strong>State</strong> <br>
-   	<strong>Date</strong>
+    Venue, City, State <br>
+    Date <br>
    	<strong>Tickets link</strong>
   </p>
     <p>
-   	<strong>Venue</strong>, <strong>City</strong>, <strong>State</strong> <br>
-   	<strong>Date</strong>
+   	Venue, City, State <br>
+    Date <br>
    	<strong>Tickets link</strong>
   </p>
     <p>
-   	<strong>Venue</strong>, <strong>City</strong>, <strong>State</strong> <br>
-   	<strong>Date</strong>
+   	Venue, City, State <br>
+    Date <br>
    	<strong>Tickets link</strong>
   </p>
     <p>
-   	<strong>Venue</strong>, <strong>City</strong>, <strong>State</strong> <br>
-   	<strong>Date</strong>
+   	Venue, City, State <br>
+    Date <br>
    	<strong>Tickets link</strong>
   </p>
 </div>
