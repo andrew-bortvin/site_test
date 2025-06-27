@@ -237,6 +237,7 @@ strong, b {
   justify-content: center;
   margin-top: 2rem;
   grid-template-columns: repeat(4, 1fr);
+  padding: 0 3rem;
 }
 
 .icon-item {
