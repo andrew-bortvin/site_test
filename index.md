@@ -31,7 +31,7 @@ title: Ensemble Name
     <p>
     This is my substitute for pistol and ball. With a philosophical flourish Cato throws himself upon his sword; <strong>I quietly take to the ship.</strong> There is nothing surprising in this. If they but knew it, almost all men in their degree, some time or other, cherish very nearly the same feelings towards the ocean with me.
     <p>
-    </p>
+    <p>
     There now is your insular city of the Manhattoes, belted round by wharves as Indian isles by coral reefs—<strong>commerce surrounds it with her surf</strong>. Right and left, the streets take you waterward. Its extreme downtown is the battery, where that noble mole is washed by waves, and cooled by breezes, which a few hours previous were out of sight of land. <strong>Look at the crowds of water-gazers there</strong>.
     </p>
   </div>
