@@ -51,6 +51,27 @@
     });
   });
 </script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const toggles = document.querySelectorAll(".icon-toggle");
+
+    toggles.forEach((toggle) => {
+      toggle.addEventListener("click", function () {
+        const currentDropdown = toggle.nextElementSibling;
+        const allDropdowns = document.querySelectorAll(".icon-dropdown");
+
+        allDropdowns.forEach((dropdown) => {
+          if (dropdown !== currentDropdown) {
+            dropdown.classList.remove("open");
+          }
+        });
+
+        currentDropdown.classList.toggle("open");
+      });
+    });
+  });
+</script>
+
   <body class="{% if page.after_banner %}after-banner{% endif %}">
     {% include header.html %}
     <main class="page-content">
