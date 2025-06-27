@@ -6,6 +6,8 @@ shrink_header: true
 after_banner: true
 ---
 
+<div style="height: 5rem;"></div>
+
 <div class="icon-grid">
   <div class="icon-item">
     <button class="icon-toggle">
