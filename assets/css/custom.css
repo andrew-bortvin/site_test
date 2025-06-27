@@ -270,6 +270,7 @@ strong, b {
 .icon-dropdown.open {
   opacity: 1;
   max-height: 300px;
+  margin-top: 1rem;
 }
 
 /* Responsive tweaks */
