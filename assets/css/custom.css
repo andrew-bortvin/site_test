@@ -231,7 +231,7 @@ strong, b {
 }
 
 .icon-grid {
-  display: flex;
+  display: grid;
   flex-wrap: wrap;
   gap: 2rem;
   justify-content: center;
