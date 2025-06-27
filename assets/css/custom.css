@@ -265,7 +265,7 @@ strong, b {
 
 .icon-dropdown.open {
   opacity: 1;
-  max-height: 300px;
+  max-height: 1000px;
   margin-top: 1rem;
 }
 
